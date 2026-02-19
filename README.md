@@ -9,21 +9,6 @@ La aplicación fue construida con:
  - **Microsoft Server SQL (mssql)** (Base de Datos).
  - **Visual Studio Code (VS Code)** como IDE principal.
 
-```bash
-
-
-## Ejecución
-
-### Back-end
-
-#### Instalación
-El back-end está desarrollado en **Node.js**, framework de JavaScript para la creación y gestión de servidores.
-
-1. Inicializar proyecto:
-   ```bash
-   npm init -y
-```
-
 
 ## Ejecución
 
@@ -157,4 +142,4 @@ En la imagen 1 se presenta el ingreso de los atributos de una nueva tarea. Dicha
 
 ![Imagen 2: Creación o agregación de una tarea.](images/image2.jpeg)
 
-![Imagen 3: Eliminación de una tarea.](images/imagen3.jpeg)
+![Imagen 3: Eliminación de una tarea.](images/image3.jpeg)
